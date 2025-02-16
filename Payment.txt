@@ -2,7 +2,10 @@
 https://youtu.be/3OOHC_UzrKA?si=nWSD2K3XqCjJpfIb
 example
 2. https://github.com/michaelkitas/Stripe-Payments.git
+this is safe mode payment, method
+
 
 3. https://github.com/walifile/react-payment-form.git
+it 's just page not working ui, for valdiation purpose
 
 live demo for above:- https://react-payment-form.vercel.app/
