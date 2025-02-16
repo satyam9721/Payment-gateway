@@ -12,8 +12,8 @@ live demo for above:- https://react-payment-form.vercel.app/
 
 4. https://github.com/waleed-shaikh/ftn-cht.git
 
+Required phone pay Merchant-id. To get a merchant ID from PhonePe, you can request a merchant account and submit the required documents. After verification, PhonePe will provide you with a merchant ID
 upi payment and card payments.
-
 live demo and tutorials:- https://youtu.be/PBuka_8-qIk?si=GP-ntmEx8B9ROqE9
 phone pay:- https://developer.phonepe.com/v1/reference/pay-api-1/
 
