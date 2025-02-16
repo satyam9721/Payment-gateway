@@ -1,5 +1,5 @@
 1. Using Stripe , How to integrate Stripe Payment in React and Node.js
-https://youtu.be/3OOHC_UzrKA?si=nWSD2K3XqCjJpfIb
+live demo :- https://youtu.be/3OOHC_UzrKA?si=nWSD2K3XqCjJpfIb
 example
 2. https://github.com/michaelkitas/Stripe-Payments.git
 this is safe mode payment, method
@@ -9,3 +9,11 @@ this is safe mode payment, method
 it 's just page not working ui, for valdiation purpose
 
 live demo for above:- https://react-payment-form.vercel.app/
+
+4. https://github.com/waleed-shaikh/ftn-cht.git
+
+upi payment and card payments.
+
+live demo and tutorials:- https://youtu.be/PBuka_8-qIk?si=GP-ntmEx8B9ROqE9
+
+
