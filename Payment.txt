@@ -1,3 +1,8 @@
-Using Stripe , How to integrate Stripe Payment in React and Node.js
-
+1. Using Stripe , How to integrate Stripe Payment in React and Node.js
 https://youtu.be/3OOHC_UzrKA?si=nWSD2K3XqCjJpfIb
+example
+2. https://github.com/michaelkitas/Stripe-Payments.git
+
+3. https://github.com/walifile/react-payment-form.git
+
+live demo for above:- https://react-payment-form.vercel.app/
