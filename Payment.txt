@@ -15,5 +15,5 @@ live demo for above:- https://react-payment-form.vercel.app/
 upi payment and card payments.
 
 live demo and tutorials:- https://youtu.be/PBuka_8-qIk?si=GP-ntmEx8B9ROqE9
-
+phone pay:- https://developer.phonepe.com/v1/reference/pay-api-1/
 
